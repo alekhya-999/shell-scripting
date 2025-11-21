@@ -4,7 +4,8 @@
 #create a folder
 mkdir practice
 
-#create a folder
+#go to that folder
 cd practice
 
+#create file
 touch script1
