@@ -15,6 +15,4 @@ cd /usr/share/nginx/html
 unzip /tmp/frontend.zip
 
 
-cp nginx.conf /etc/nginx/nginx.conf
-
 systemctl restart nginx 
